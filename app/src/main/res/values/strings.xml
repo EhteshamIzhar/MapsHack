@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapsHack</string>
+    <string name="key">AIzaSyC9xQheG3Ag7H_WQFFzij8jqJtHqHM_Mng</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
